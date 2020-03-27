@@ -28,3 +28,4 @@ variable "asg_hct" {}
 variable "asg_cap" {}
 variable "lc_instance_type" {}
 variable "delegation_set" {}
+

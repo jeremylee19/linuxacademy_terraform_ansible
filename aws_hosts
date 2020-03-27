@@ -1,1 +1,5 @@
-# default
+[dev]
+13.250.27.173
+[dev:vars]
+s3code=myterransiblelab-8429
+domain=myterransiblelab
